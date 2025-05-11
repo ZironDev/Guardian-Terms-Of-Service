@@ -24,9 +24,10 @@ At some point, we may wish to update the app. We may also wish to stop providing
 
 # Contact
 
-- [Support Server](https://discord.gg/aresdev)
-- If above links don't work mail us on helparesbot@gmail.com
+- Join our [support server](https://discord.gg/f3y74UYe3u)
+- Server invite is invaild, Mail us
+- Mail - workforziron@gmail.com
 
 **Thank you for using our service**
 
-#### **Last Changed `20 May 2023, Thursday 11:01 AM`**
+#### **Last Changed `11 May 2025, Sunday 14:18 PM`**
